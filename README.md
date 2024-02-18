@@ -1,7 +1,7 @@
 # cv_mipt
 my exp-ce with cv training-course 
 
-If u have the problem like me:
+If u have the problem like me - try way below:
 ```
 ┌──(arutiunian㉿arutiunian)-[~]
 └─$ jupyter-noteebook
