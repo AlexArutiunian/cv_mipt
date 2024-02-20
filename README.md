@@ -1,4 +1,4 @@
-# cv_mipt
+# [cv_mipt](https://github.com/StarkitRobots/cvr2024)
 my exp-ce with cv training-course 
 
 If u have the problem like me - try way below:
