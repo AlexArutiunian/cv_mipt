@@ -19,6 +19,6 @@ while(True):
     if (key == ord('q')):
         break
 
-cam.release()
+cam.release() 
 cv2.destroyAllWindows()
 cv2.waitKey(10)
